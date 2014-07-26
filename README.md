@@ -50,7 +50,5 @@ One rubber band, to prevent the phone from sliding out. Minimum length of 3.2in 
 
 6.NFC tag (optional)
 -----
-http://item.taobao.com/item.htm?spm=a1z09.2.9.64.NsfmIO&id=22055419809&_u=nc0k4u8c2d8
-
 
 One sticker NFC tag. Program it with the URL cardboard://v1.0.0
